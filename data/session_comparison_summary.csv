@@ -1,0 +1,6 @@
+session,bars_count,pearson_correlation,directional_match_pct,xau_avg_range_pct,xag_avg_range_pct,volatility_ratio_xag_xau,xau_avg_tr_$,xag_avg_tr_$,xau_avg_volume,xag_avg_volume
+Asian,7224,0.7741,81.2%,0.224%,0.498%,2.22x,$10.08,$0.362,5923.0,1538.0
+London,6183,0.7845,77.8%,0.207%,0.431%,2.08x,$9.31,$0.311,5777.0,1476.0
+London_NY_Overlap,3096,0.8159,81.5%,0.344%,0.719%,2.09x,$15.47,$0.519,8751.0,2408.0
+New_York,5091,0.832,79.9%,0.228%,0.486%,2.13x,$10.27,$0.355,7184.0,1854.0
+Off_Hours,2028,0.7863,78.2%,0.192%,0.416%,2.17x,$8.97,$0.313,3808.0,802.0
